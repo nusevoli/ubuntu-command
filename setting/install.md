@@ -18,3 +18,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 docker-compose --version
 ```
+
+## node 22
+https://joshtronic.com/2024/05/26/ubuntu-nodejs-22-install/
